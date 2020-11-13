@@ -13,7 +13,7 @@ Facial keypoints (also called facial landmarks) are the small magenta dots shown
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install below packages.
 
 ```bash
 pip install opencv
